@@ -25,7 +25,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
     * Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
 
 ## Data Analysis using MySQL:-
-       * Import [db_dump](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/db_dump.sql) and [db_dump_2](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/db_dump_version_2%20(1).sql)
+       Step 1:- [link]()  
       
     
    
