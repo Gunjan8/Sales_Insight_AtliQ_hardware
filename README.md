@@ -36,7 +36,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 5. Make individual sheets to visualize and analyse data and then compile them to make dashboard .
 6. You can see individual sheets and dashboard click here:- [dashboard](https://public.tableau.com/app/profile/gunjan.chandak/viz/Sales_Insight_AtliQ_hardware/Dashboard-Profitanalysis)
 7. ### Dashboard- revenue analysis ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Dashboard%20-revenue%20analysis.png)
-8. ### Dashboard- profit analysis ![Alt text]()
+8. ### Dashboard- profit analysis ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Dashboard%20-%20Profit%20analysis.png)
 
 
 
