@@ -31,6 +31,9 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 ## Tableau:-
 1. Connect the MySQL database with the Tableau desktop.
 2. Organize  databse in star schema data model so it is easy to understand and analyze. ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Screenshot%20(26).png)
+3. Filter the negative and 0 values in sales amount column in transaction table by giving the column range above 0.
+4. Convert USD into INR in the transaction’s table because the AtliQ Hardware only works in India so the USD values are not required. To convert those USD values use calculated field option to create a column Normalized amount and write a formula to rectify this issue.
+`IF [Currency] =='USD' THEN [Sales Amount]*74 ELSE [Sales Amount] END`
 
       
     
