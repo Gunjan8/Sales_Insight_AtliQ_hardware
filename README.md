@@ -11,7 +11,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
                        manual time spent in data gathering
 
 * **Stakeholders** :-
-              * Sales Director
+              - Sales Director
               * Marketing Team
               * Customer Service Team
               * Data and Analytics Team
