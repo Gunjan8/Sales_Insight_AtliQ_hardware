@@ -30,7 +30,8 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 
 ## Tableau:-
 1. Connect the MySQL database with the Tableau desktop.
-2. Organize  databse in star schema data model so it is easy to understand and analyze.
+2. Organize  databse in star schema data model so it is easy to understand and analyze. ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Screenshot%20(26).png)
+
       
     
    
