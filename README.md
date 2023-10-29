@@ -34,8 +34,9 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 3. Filter the negative and 0 values in sales amount column in transaction table by giving the column range above 0.
 4. Convert USD into INR in the transaction’s table because the AtliQ Hardware only works in India so the USD values are not required. To convert those USD values use calculated field option to create a column Normalized amount and write a formula to rectify this issue. `IF [Currency] =='USD' THEN [Sales Amount]*74 ELSE [Sales Amount] END`
 5. Make individual sheets to visualize and analyse data and then compile them to make dashboard .
-6. You can see individual sheets and dashboard here:- [dashboard](https://public.tableau.com/app/profile/gunjan.chandak/viz/Sales_Insight_AtliQ_hardware/Dashboard-Profitanalysis)
-7. ### [Dashboard- revenue analysis]()
+6. You can see individual sheets and dashboard click here:- [dashboard](https://public.tableau.com/app/profile/gunjan.chandak/viz/Sales_Insight_AtliQ_hardware/Dashboard-Profitanalysis)
+7. ### Dashboard- revenue analysis ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Dashboard%20-revenue%20analysis.png)
+8. ### Dashboard- profit analysis ![Alt text]()
 
 
 
