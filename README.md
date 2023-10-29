@@ -10,12 +10,19 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 * **Purpose**  :-To unlock sale insights that are not visible before for sales team for decision support & automate them to reduced 
                        manual time spent in data gathering
 
-* **Stakeholders** :-
-               * Sales Director
-             
+* **Stakeholders**:-
+  * Sales Director
+  * Marketing Team
+  * Customer Service Team
+  * Data and Analytics Team
+  * IT
 
 * **End result** :- An automated dashboard providing quick and latest insights in order to support data driven decision making.
 
 * **Success Criteria** :-
-                  
+    * Dashboard(s) uncovering sales order insights with latest data available.
+    * Sales team able to take better decisions and prove 10% cost saving of total spend.
+    * Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
+    
+   
               
