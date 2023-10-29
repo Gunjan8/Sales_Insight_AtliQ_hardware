@@ -38,6 +38,17 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 7. ### Dashboard- revenue analysis ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Dashboard%20-revenue%20analysis.png)
 8. ### Dashboard- profit analysis ![Alt text](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/images/Dashboard%20-%20Profit%20analysis.png)
 
+## Isights:-
+* In the dashboard, we can see company has generated total revenue around ₹ 985M in 4 years, total profit margin ₹24.7M,  Sales Qty ₹2M. Concerning part is that as we look through years especially 2018-2019 sice these two years have complete data from jan to dec ,total revenue is decreasing  .
+* In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but the profit margin in Delhi NCR is generating only 2.3% profit margin whereas Bhubaneshwar is generating the highest profit margin of 10.48% in 2020. 
+* Bengaluru need more focus because in 4 years it has generated the lowest profit margin of -20.8%.
+* In  top 5 customers, the Electricalsara Stores is the biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
+* Brick $ Mortar cudtomer type brought more revenue than e- commerce.
+* Revenue is showing that in June 2020 it has been decreased drastically compared to the revenue last year and the profit margin was the least in April 2020.
+
+## Refrence:-
+[code basics channel ](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL)
+
 
 
       
