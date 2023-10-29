@@ -1,1 +1,1 @@
-# Sales_Insight_AtliQ_hardware
+# Sales Insight (AtliQ Hardware)- Analysis using SQL & Tableau 
