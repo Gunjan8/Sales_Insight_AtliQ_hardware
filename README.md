@@ -11,11 +11,8 @@ The problem was that all thses thing happening is verbal and these was mo proof 
                        manual time spent in data gathering
 
 * **Stakeholders** :-
-              - Sales Director
-              * Marketing Team
-              * Customer Service Team
-              * Data and Analytics Team
-              * IT
+               * Sales Director
+             
 
 * **End result** :- An automated dashboard providing quick and latest insights in order to support data driven decision making.
 
