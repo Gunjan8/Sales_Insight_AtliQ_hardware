@@ -27,6 +27,10 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 ## Data Analysis using MySQL:-
 1. Import file [db_dump.sql](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/db_dump.sql)  and [db_dump_2](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/db_dump_version_2%20(1).sql) in MySQL.
 2. Analysis of data in MySQl by running several queries like I have done in this file [Sales_Insight](https://github.com/Gunjan8/Sales_Insight_AtliQ_hardware/blob/main/SalesInsight.sql) .
+
+## Tableau:-
+1. Connect the MySQL database with the Tableau desktop.
+2. Organize  databse in star schema data model so it is easy to understand and analyze.
       
     
    
